@@ -1,0 +1,11 @@
+.list {
+  list-style-type: none;
+}
+
+.character-and-count {
+  color: #272c47;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-top: 0px;
+}
